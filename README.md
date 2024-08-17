@@ -9,3 +9,13 @@
 Soy Egresado universitario, estudie ing. en sistemas coputacioneles.
 actual mente me estoy en focando en el desarrollo multiplataforma con python puro.
 
+
+## 🛠 Habilidades
+
+- Python -> Django, Reflex, Fastapi, Pyside6
+- Db -> MySQL, Sqlite3
+- Css
+- Html
+- ORM
+- CRUD
+- Apis
