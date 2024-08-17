@@ -6,5 +6,6 @@
 
 
 ## 🚀 Sobre Mi
-soy un desarrollador junior,  en focado en el lenguaje de python, especificamente estoy en camino de ser  un desarrollador backend y frontend .
-hambos con el mismo lenguaje.ya que estoy familiarisado con  frameworks como FastApi, Django del lado del backend y Reflex, flet del lado del frontend.
+Soy Egresado universitario, estudie ing. en sistemas coputacioneles.
+actual mente me estoy en focando en el desarrollo multiplataforma con python puro.
+
