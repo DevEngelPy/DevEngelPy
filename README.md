@@ -12,8 +12,8 @@ actual mente me estoy en focando en el desarrollo multiplataforma con python pur
 
 ## 🛠 Habilidades
 
-- Python -> Django, Reflex, Fastapi, Pyside6
-- Db -> MySQL, Sqlite3
+- Django, Reflex, Fastapi, Pyside6
+- MySQL, Sqlite3
 - Css
 - Html
 - ORM
